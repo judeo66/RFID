@@ -1,0 +1,10 @@
+c:\users\israel\documents\visual studio 2013\Projects\segunda tentativa\segunda tentativa\bin\Debug\segunda tentativa.exe.config
+c:\users\israel\documents\visual studio 2013\Projects\segunda tentativa\segunda tentativa\obj\Debug\segunda tentativa.csprojResolveAssemblyReference.cache
+c:\users\israel\documents\visual studio 2013\Projects\segunda tentativa\segunda tentativa\obj\Debug\segunda_tentativa.Form1.resources
+c:\users\israel\documents\visual studio 2013\Projects\segunda tentativa\segunda tentativa\obj\Debug\segunda_tentativa.Form2.resources
+c:\users\israel\documents\visual studio 2013\Projects\segunda tentativa\segunda tentativa\obj\Debug\segunda_tentativa.Properties.Resources.resources
+c:\users\israel\documents\visual studio 2013\Projects\segunda tentativa\segunda tentativa\obj\Debug\segunda tentativa.csproj.GenerateResource.Cache
+c:\users\israel\documents\visual studio 2013\Projects\segunda tentativa\segunda tentativa\bin\Debug\segunda tentativa.exe
+c:\users\israel\documents\visual studio 2013\Projects\segunda tentativa\segunda tentativa\bin\Debug\segunda tentativa.pdb
+c:\users\israel\documents\visual studio 2013\Projects\segunda tentativa\segunda tentativa\obj\Debug\segunda tentativa.exe
+c:\users\israel\documents\visual studio 2013\Projects\segunda tentativa\segunda tentativa\obj\Debug\segunda tentativa.pdb
